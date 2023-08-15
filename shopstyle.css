@@ -28,8 +28,10 @@ body {
     font-weight: bold;
 }
 
-.ShopN {
-    text-align:centre;
+.shop-title {
+    text-align: centre;
+    margin: 20px;
+    
 }
 
 .image-container {
