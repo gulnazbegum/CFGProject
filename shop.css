@@ -27,6 +27,15 @@ body {
     color: white;
     font-weight: bold;
 }
+
+.product-name:active{
+    opacity: 0.2;
+  }
+  .product-name:hover{
+text-decoration: underline;
+color: #6A1B9A;
+  }
+
 .image-container {
     display: flex;
     justify-content: center;
