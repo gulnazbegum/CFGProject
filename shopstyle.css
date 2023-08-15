@@ -44,7 +44,16 @@ body {
     align-items: center;
     margin-bottom: 20px;
   }
-  .product {
+
+.product-name:active{
+    opacity: 0.2;
+  }
+  .product-name:hover{
+text-decoration: underline;
+color: #6A1B9A;
+  }
+
+.product {
     display: inline-block;
     text-align: center;
     margin: 0 20px;
