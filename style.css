@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(246, 234, 242);
+}
+
+
+
+ 
+  
+
+
+  
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%; 
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.front {  
+    margin-top: 50px;
+    margin-left: 70px;
+
+}
